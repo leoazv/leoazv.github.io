@@ -1,0 +1,44 @@
+body {
+    background-color: #202830;
+    color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    border-bottom: 2px solid #444;
+    padding: 20px;
+}
+
+footer {
+    border-top: 2px solid #444;
+    padding: 10px;
+    font-size: 0.9em;
+    color: #ccc;
+}
+
+h1 {
+    color: #58a6ff;
+}
+
+h2 {
+    color: #ffa500;
+}
+
+.termo {
+    font-style: italic;
+    color: #90ee90;
+}
+
+#nome-usuario {
+    font-weight: bold;
+    color: #00ffcc;
+}
+
+img {
+    margin-top: 20px;
+    max-width: 60%;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
