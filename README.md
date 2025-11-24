@@ -1,4 +1,4 @@
-# leoazv.github.io
+# Landing Page Dev Alura.
 Site Alura
 Projeto introdutório desenvolvido para apresentar conceitos básicos de HTML, CSS e JavaScript.
 
